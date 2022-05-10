@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.current{
+    font-family:'Droid Sans', serif;
+    font-size: 14px;
+    color: red !important;
+    text-decoration: none;
+    line-height: 50px;
+
+}
+

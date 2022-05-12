@@ -695,10 +695,10 @@ a {
 .team-socials a:not(:last-child),
 .widget .widget-title h3:after,
 ::selection {
-  background-color:#208144;
+  background-color:rgb(77, 77, 235);
 }
 .c1-bo {
-  border-color:  #208144!important;
+  border-color:  rgb(77, 77, 235)!important;
 }
 .accordion > div.active h3,
 .banner-content .sub-title,
@@ -724,7 +724,7 @@ a {
 .widget.widget_service .service-list li a:hover i,
 .widget.widget_service .service-list li a:hover svg *,
 a:hover {
-  color: #208144;
+  color: rgb(77, 77, 235);
 }
 .back-to-top,
 .btn,
@@ -744,10 +744,10 @@ a:hover {
 .team-socials a,
 .theme-input-group button,
 .widget.widget_social_links .social-links a:hover {
-  background-color: #208144;
+  background-color: rgb(77, 77, 235);
 }
 .c2-bo {
-  border-color:#208144!important;
+  border-color:rgb(77, 77, 235) !important;
 }
 #countdown li.seperator,
 .banner-content,
@@ -2728,9 +2728,9 @@ blockquote cite:after {
   transform: translateY(-7px) rotate(-45deg);
 }
 .banner {
-  background: -o-radial-gradient(50% 50%, closest-side, yellow 0, rgb(2, 94, 2) 100%)
+  background: -o-radial-gradient(50% 50%, closest-side, rgb(155, 248, 155), rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
-  background: radial-gradient(closest-side at 50% 50%, yellow 0, rgb(2, 94, 2) 100%)
+  background: radial-gradient(closest-side at 50% 50%,rgb(155, 248, 155), rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3192,9 +3192,9 @@ blockquote cite:after {
   margin-right: 8px;
 }
 .footer {
-  background: -o-radial-gradient(50% 50%, closest-side,yellow 0, rgb(2, 94, 2) 100%)
+  background: -o-radial-gradient(50% 50%, closest-side, rgb(155, 248, 155), rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
-  background: radial-gradient(closest-side at 50% 50%, yellow 0, rgb(2, 94, 2) 100%)
+  background: radial-gradient(closest-side at 50% 50%,  rgb(155, 248, 155), rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
   position: relative;
   z-index: 1;

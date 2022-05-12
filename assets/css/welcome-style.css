@@ -2728,9 +2728,9 @@ blockquote cite:after {
   transform: translateY(-7px) rotate(-45deg);
 }
 .banner {
-  background: -o-radial-gradient(50% 50%, closest-side, #5994f3 0, darkblue 100%)
+  background: -o-radial-gradient(50% 50%, closest-side, yellow 0, rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
-  background: radial-gradient(closest-side at 50% 50%, #5994f3 0, darkblue 100%)
+  background: radial-gradient(closest-side at 50% 50%, yellow 0, rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3192,9 +3192,9 @@ blockquote cite:after {
   margin-right: 8px;
 }
 .footer {
-  background: -o-radial-gradient(50% 50%, closest-side, #5994f3 0, darkblue 100%)
+  background: -o-radial-gradient(50% 50%, closest-side,yellow 0, rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
-  background: radial-gradient(closest-side at 50% 50%, #5994f3 0,darkblue 100%)
+  background: radial-gradient(closest-side at 50% 50%, yellow 0, rgb(2, 94, 2) 100%)
     0 0 no-repeat padding-box;
   position: relative;
   z-index: 1;

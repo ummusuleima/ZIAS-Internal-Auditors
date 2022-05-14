@@ -827,7 +827,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #354463;
+  color: #1f2124;
 }
 .black-bg,
 .btn.btn-black,
@@ -843,10 +843,10 @@ h6 {
 .header-main.sticky #menu-button span:before,
 .header-main.sticky .offcanvas-trigger span,
 .offcanvas-overlay {
-  background-color: #354463;
+  background-color: #1f2124;
 }
 .black-bo {
-  border-color: #354463 !important;
+  border-color: #1f2124 !important;
 }
 .btn-link,
 .comment-content .comment-respond .comment-form select,
@@ -868,14 +868,14 @@ h6 {
 .widget.widget_recent_entries ul li .posted-on i,
 .widget.widget_search .theme-input-group input,
 .widget.widget_service .service-list li a {
-  color: #7f828c;
+  color:#1f2124;
 }
 .text-color-bg,
 blockquote cite:after {
-  background-color: #7f828c;
+  background-color:#1f2124;
 }
 .text-color-bo {
-  border-color: #7f828c !important;
+  border-color: #1f2124 !important;
 }
 .theme-input-group button,
 .trans2 {
@@ -2389,7 +2389,7 @@ blockquote cite:after {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    background-color: #fff;
+    background-color: lightblue;
     -webkit-box-shadow: 0 5px 30px rgba(0, 0, 0, 0.16);
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.16);
     width: calc(100% - 30px);

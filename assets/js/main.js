@@ -24,8 +24,11 @@
   }
   a(window).on("scroll", function () {
     a(window).scrollTop() < 100
-      ? a(".header-main.love-sticky").removeClass("sticky fadeInDown animated")
-      : a(".header-main.love-sticky").addClass("sticky fadeInDown animated");
+      ? a(".header-main.love-sticky.menu-sticky").removeClass("sticky fadeInDown animated")
+      : a(".header-main.love-sticky.menu-sticky").addClass("sticky fadeInDown animated");
+    a(window).scrollTop() < 100
+      ? a(".top-banner").removeClass("d-none")
+      : a(".top-banner").addClass("d-none");  
   }),
     a("[data-bg-img]")
       .css("background-image", function () {
